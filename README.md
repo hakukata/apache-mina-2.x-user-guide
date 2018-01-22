@@ -3,6 +3,8 @@ Apache MINA User Guide 中文翻译《Apache MINA 2 用户指南》
 
 ![logo](mina-logo.png)
 
+> 本开源书 forked from [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/apache-mina-2.x-user-guide)，以便获得最新更新，谢谢！
+
 Chinese translation of the Apache MINA User Guide (http://mina.apache.org/mina-project/userguide/user-guide-toc.html). 
 The laset version of Apache MINA is 2.x. There is also a GitBook version of the book: <http://waylau.gitbooks.io/apache-mina-2-user-guide>.
 Let's [READ](SUMMARY.md)!
